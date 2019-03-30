@@ -1,2 +1,2 @@
 # esp8266
-Simple IoT solutions
+Script to update Google sheet with nodemcu sensor data
